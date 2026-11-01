@@ -26,4 +26,6 @@ VerifiCasa ([verificasa.ro](https://verificasa.ro)) is a Romanian real-estate pl
 | [docs/partners.md](docs/partners.md) | Partners and partnership discussions |
 | [docs/company.md](docs/company.md) | Legal entity, team and contacts |
 
-> Private internal repository. It contains pricing, roadmap, partner and team information. Do not make it public without removing those parts.
+## Contact
+
+contact@verificasa.ro · [verificasa.ro](https://verificasa.ro) · [@verificasaro](https://instagram.com/verificasaro)
